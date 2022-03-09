@@ -4,8 +4,8 @@ const days = document.getElementById('days');
 const endScreen = document.getElementById('endScreen');
 
 
-daysLeft = 2;
-gameOverNumber = 2;
+daysLeft = 60;
+gameOverNumber = 50;
 loopPlay = false;
 
 
